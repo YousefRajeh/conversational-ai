@@ -1,0 +1,64 @@
+{
+    "ontology": {
+        "superhero": [
+            "marvel"
+        ],
+        "marvel": [
+            "iron man",
+            "the avengers",
+            "captain america",
+            "the incredible hulk",
+            "iron man 2",
+            "thor",
+            "captain america the first avenger",
+            "marvel the first avengers",
+            "iron man 3",
+            "thor the dark world",
+            "captain america the winter soldier",
+            "guardians of the galaxy",
+            "avengers age of ultron",
+            "ant man",
+            "captain america civil war",
+            "doctor strange",
+            "guardians of the galaxy vol 2",
+            "spider man homecoming",
+            "thor ragnarok",
+            "black panther",
+            "avengers infinity war",
+            "ant-man and the wasp",
+            "captain marvel",
+            "avengers endgame",
+            "spider man far from home",
+            "black widow",
+            "shang chi and the legend of the ten rings",
+            "eternals",
+            "spider man no way home",
+            "doctor strange in the multiverse of madness",
+            "thor love and thunder",
+            "black panther wakanda forever",
+            "ant-man and the wasp quantumania",
+            "guardians of the galaxy Vol 3",
+            "the marvels",
+            "captain america new world order",
+            "thunderbolts",
+            "blade",
+            "deadpool 3",
+            "fantastic four",
+            "avengers the kang dynasty",
+            "avengers secret wars"
+        ],
+        "guardians of the galaxy": [
+            "baby groot",
+            "groot",
+            "gamora",
+            "rocket raccoon",
+            "rocket",
+            "raccoon",
+            "drax",
+            "star lord",
+            "star-lord",
+            "drax the destroyer"
+        ]
+    }
+}
+
