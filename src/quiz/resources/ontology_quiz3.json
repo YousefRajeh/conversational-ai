@@ -47,7 +47,7 @@
             "avengers the kang dynasty",
             "avengers secret wars"
         ],
-        "guardians of the galaxy": [
+        "gchar": [
             "baby groot",
             "groot",
             "gamora",
@@ -58,6 +58,22 @@
             "star lord",
             "star-lord",
             "drax the destroyer"
+        ],
+        "action": [
+            "top gun maverick",
+            "top gun"
+        ],
+        "comedy": [
+            "the nice guys"
+        ],
+        "scifi": [
+            "tenet"
+        ],
+        "horror": [
+            "barbarian"
+        ],
+        "romance": [
+            "ticket to paradise"
         ]
     }
 }
